@@ -1,0 +1,35 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.crimson {
+    color: crimson;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: #ffcb05;
+}
+
+.red {
+    color: red;
+}
+
+.burnt_orange {
+    color: #bf5700;
+}
+
+#YesButton {
+    background-color: green;
+    color: white;
+}
+
+#NoButton {
+    background-color: red;
+    color: white;
+}
